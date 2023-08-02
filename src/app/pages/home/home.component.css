@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&family=Roboto+Condensed:wght@300&display=swap'); 
+/* Estilos para la sección principal */
+
+.letra{
+    text-align: center;
+    padding: 10px;
+    font-family: 'Roboto Slab Condensed';
+}
+
+
+.hero {
+    text-align: center;
+    padding: 100px;
+    background-color: #BFD5D9;
+}
+  
+.hero p {
+    font-size: 18px;
+    font-family: 'Roboto Slab', serif;
+}
+
+body{
+    background-color: #BFD5D9;
+}
